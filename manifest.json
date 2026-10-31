@@ -1,7 +1,7 @@
 {
-  "version": "2.6.15",
+  "version": "2.6.16",
   "board": "esp32s3",
-  "size": 1264880,
-  "sha256": "fabd830cb1f38dad130d8e5bd452251d01fb241493521c1dc6630d02b65884bc",
+  "size": 1265440,
+  "sha256": "e92af1dcc34779e5faee55f92cb1fdbbb4e3c9305e9ccfd4838011dc0191f168",
   "file": "firmware.bin"
 }
